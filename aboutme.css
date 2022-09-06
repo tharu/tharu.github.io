@@ -1,0 +1,65 @@
+#heading
+{
+    color: #568f56;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body
+{
+    background-image: url("images/background3.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul>li
+{
+    line-height: 30px;
+}
+
+#leftpan
+{
+    float:left
+}
+
+#mood
+{
+    float:right;
+    right:200px;
+    position: relative;
+}
+
+#happyme
+{
+    float:left;
+    margin-right: 100px;
+}
+
+#sadme
+{
+    float:right;
+}
+#neighbours
+{
+    float:right;
+    right:30%;
+    margin-top:50px;
+    position: relative;
+}
+
+ul>li>b
+{
+    color: #568f56;
+}
+
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.divClear
+{
+    clear: both;
+}

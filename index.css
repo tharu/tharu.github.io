@@ -1,5 +1,12 @@
-img
+#profile
 {
     border-radius: 7%;
     border:2px solid red;
+}
+
+#aboutme
+{
+    margin:2%;
+    color: black;
+    font-size: 17pt;
 }
