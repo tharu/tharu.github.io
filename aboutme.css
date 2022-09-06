@@ -63,3 +63,7 @@ a:hover
 {
     clear: both;
 }
+img
+{
+    border-radius: 10%;
+}
