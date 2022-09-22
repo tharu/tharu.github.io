@@ -24,7 +24,7 @@ ul>li
 #divHead
 {
     background-color: purple;
-    width: 60%;
+    width: 100%;
     border-radius: 5px;
     /* left:20%;   */
     position: relative;
@@ -32,10 +32,10 @@ ul>li
 
 #imgHead
 {
-    width: 96%;
+    width: 50%;
     height:300px;
-    left:2%;
-    right:2%;
+    left:1%;
+    /* right:2%; */
     position: relative;
 }
 
