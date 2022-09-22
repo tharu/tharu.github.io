@@ -21,6 +21,22 @@ ul>li
     float:left
 }
 
+#divHead
+{
+    background-color: purple;
+    width: 50%;
+    border-radius: 5px;
+}
+
+#imgHead
+{
+    width: 96%;
+    height:300px;
+    left:2%;
+    right:2%;
+    position: relative;
+}
+
 #mood
 {
     float:right;
